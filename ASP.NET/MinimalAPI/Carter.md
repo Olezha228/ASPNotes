@@ -1,4 +1,4 @@
-Use is to shorten the program file by not mapping endpoints there.
+Use it to shorten the program file by not mapping endpoints there.
 
 ```c#
 using Carter;
